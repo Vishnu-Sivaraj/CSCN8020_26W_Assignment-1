@@ -58,6 +58,6 @@ The following problems are included:
 
 ## ▶️ How to Run
 
-### 1. Install dependencies
+### 1. Install NumPy
 ```bash
-pip install -r requirements.txt
+pip install numpy
